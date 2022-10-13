@@ -1,0 +1,25 @@
+Descripción de la Practica:
+Automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
+Para la práctica se requiere de una página web que capture los datos de un cliente con un formulario, que además se cree un inicio de sesión e imprima un numero de referencia para dar seguimiento al caso del abogado y pago en aplicación.
+Por otro lado, se requiere también de una página para que el abogado pueda ver los casos de los clientes almacenados, además de ver las confirmaciones de pago.
+
+
+Toma de Requerimientos:
+UX de Cliente – demandante
+•	Creación de cuenta cliente (Formulario de ingreso al aplicativo)
+•	Formulario de captura de datos del caso (Creación de demanda o proceso penal) -> Creación de caso nuevo
+•	Método de pago (payroll page)
+•	Asignación de Numero de caso para hacer más agil el seguimiento del caso.
+•	Notificación de actualización de caso
+•	Observar comentarios de su proceso
+•	Ver el historial de demandas o procesos con el consorcio
+•	Responsiva para celular
+
+UX de Abogado – Administrador
+•	Creación o asignación de cuenta de Administrador
+•	Reporte de Casos (conexión a formulario de demanda)
+•	Notificación de nueva demanda
+•	Dashboard con datos y cumplimiento de pago (historial de ingresos)
+•	Agregar comentarios y actualización a los casos
+•	Envió de notificaciones a cliente
+•	Responsiva para celular
